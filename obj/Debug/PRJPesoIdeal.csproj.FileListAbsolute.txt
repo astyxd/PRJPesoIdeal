@@ -1,0 +1,11 @@
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\bin\Debug\PRJPesoIdeal.exe.config
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\bin\Debug\PRJPesoIdeal.exe
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\bin\Debug\PRJPesoIdeal.pdb
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.Form1.resources
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.Properties.Resources.resources
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.csproj.GenerateResource.cache
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.exe
+C:\Users\Gusta\source\repos\PRJPesoIdeal\PRJPesoIdeal\obj\Debug\PRJPesoIdeal.pdb
